@@ -1,0 +1,27 @@
+[
+    {
+      "id": "01",
+      "name": "HTML 5"
+    },
+    {
+      "id": "02",
+      "name": "CSS 3"
+    },
+    {
+      "id": "03",
+      "name": "JAVASCRIPT"
+    },
+    {
+      "id": "04",
+      "name": "REACT"
+    },
+    {
+      "id": "05",
+      "name": "LARAVEL"
+    },
+    {
+      "id": "06",
+      "name": "PHP"
+    }
+  
+  ]
