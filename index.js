@@ -38,5 +38,5 @@ app.get('/news/:id', (req, res) => {
 
 
 app.listen(port,()=>{
-console.log("Server",port);
+console.log("Server site",port);
 })
